@@ -1,3 +1,5 @@
+// It creates two car objects and prints their details.
+
 public class car {
 
     int modelyear;
@@ -16,3 +18,4 @@ public class car {
         System.out.println("Car 2 Model Year: " + c2.modelyear + ", Mileage: " + c2.mileage + " km/l");
     }
 }
+
